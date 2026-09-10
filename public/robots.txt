@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:
+
+# VELORA is a fictional portfolio concept. Indexing is disabled in page metadata.
+Sitemap: https://velora.example/sitemap.xml
